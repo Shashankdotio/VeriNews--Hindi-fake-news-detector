@@ -43,10 +43,15 @@
    pip install -r requirements.txt
    ```
 ### Step 3: Run the Model
-- To start the fake news detection model, run the following command:
+- To start the fake news detection model, run the `script.py` file and train the model (if not already).
+- To run the model on terminal:
    ```bash
-   streamlit run main.py
+   python script.py
    ```
+- To run it on a browser using streamlit (UI):
+  ```bash
+  streamlit run main.py
+  ```
 ## 🌟Implementation/Output:
 
 ### Run the file:
