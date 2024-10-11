@@ -32,16 +32,13 @@
 2. Download the dataset and store it in the `dataset` directory of the project.
 
 ### Step 2: Install Required Dependencies
-- Ensure you have Python installed.  
-- Activate a virtual environment, if preferred:
-  ```bash
-  python -m venv env
-  source env/bin/activate  # On Windows, use `env\Scripts\activate`
-  ```
 - Install the necessary dependencies:
    ```bash
    pip install -r requirements.txt
    ```
+> [!TIP]  
+> Make sure you have Python installed and a virtual environment activated to avoid dependency issues.
+
 ### Step 3: Run the Model
 - To start the fake news detection model, run the `script.py` file and train the model (if not already).
 - To run the model on terminal:
