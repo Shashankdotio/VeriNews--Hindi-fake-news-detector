@@ -5,7 +5,7 @@
 <h1 align="center">📰 VeriNews - Hindi Fake News Detection</h1>
 
 <p align="center">
-  Detect whether a Hindi news headline is <strong>Fake</strong> or <strong>Real</strong> using AI.
+  Detect whether a Hindi news headline is <strong>Fake</strong> or <strong>Real</strong>.
 </p>
 
 <p align="center">
